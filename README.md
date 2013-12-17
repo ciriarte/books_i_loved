@@ -22,3 +22,5 @@ My very personal repo to keep track of notes, ideas and quotes from books I love
 - Guns Germs and Steel
 
 - History of Western Philosophy
+
+- Republic, Lost
